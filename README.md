@@ -2,7 +2,6 @@
 
 Trabajo Práctico: Gestión Colaborativa, Control de Versiones y Organización Empresarial.
 
----
 
 ### 👤 Autoría y Simulación de Roles
 * **Estudiante:** Jesica Belén Molina
@@ -28,17 +27,20 @@ Este proyecto tiene como objetivo desarrollar un análisis para procesar el hist
 
 ---
 
+### 🛡️ Control de Calidad y Seguridad (QA)
+* **Revisión por Pares:** Validada mediante Pull Request con hilos de discusión técnicos en GitHub.
+* **Auditoría:** Se verificó que el archivo `.gitignore` excluya correctamente los datos pesados y archivos temporales del entorno.
+
+---
+
 ### 🚀 Instrucciones de Ejecución
 Para replicar el análisis de ventas en Google Colab o de forma local:
 
 1. **Clonar el repositorio de forma completa:**
    ```bash
-   git clone [https://github.com/belu674/analisis-ventas-empresa.git](https://github.com/belu674/analisis-ventas-empresa.git)
+   git clone https://github.com/belu674/analisis-ventas-empresa.git
+   ```
 2. **Navegar a la carpeta del proyecto:**
    %cd analisis-ventas-empresa
 3. **Ejecutar el script de procesamiento:**
    !python scripts/analisis_datos.py
-
-### 🛡️ Control de Calidad y Seguridad (QA)
-* **Revisión por Pares:** Validada mediante Pull Request con hilos de discusión técnicos en GitHub.
-* **Auditoría:** Se verificó que el archivo `.gitignore` excluya correctamente los datos pesados y archivos temporales del entorno.
