@@ -1,0 +1,15 @@
+# Carpetas y archivos innecesarios de Python y Jupyter (Pedidos en la consigna)
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+
+# Archivos de datos pesados (Pedidos en la consigna para evitar saturar el repositorio)
+datos/*.csv
+datos/*.xlsx
+*.csv
+*.xlsx
+
+# Archivos del sistema y logs
+*.log
+.DS_Store
+Thumbs.db
