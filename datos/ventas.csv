@@ -1,0 +1,9 @@
+id_transaccion,sales_date,producto,cantidad_vendida,precio_unitario
+101,2026-01-10,Teclado Mecánico,2,4500
+102,2026-01-22,Mouse Gamer,5,2500
+103,2026-02-05,"Monitor 24""",1,25000
+104,2026-02-18,Teclado Mecánico,3,4500
+105,2026-03-03,Mouse Gamer,4,2500
+106,2026-03-15,"Monitor 24""",2,25000
+107,2026-03-28,Auriculares XLR,2,8000
+108,2026-04-02,Mouse Gamer,3,2500

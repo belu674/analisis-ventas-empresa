@@ -18,3 +18,15 @@ Este proyecto tiene como objetivo desarrollar un análisis para procesar el hist
 * `/datos`: Contiene los archivos de datos e históricos en formato CSV.
 * `/scripts`: Programas y scripts ejecutables en Python para el procesamiento de datos.
 * `/resultados`: Gráficos de evolución temporal y tablas de indicadores.
+
+### 🚀 Instrucciones de Ejecución
+Para replicar el análisis de ventas en Google Colab:
+
+1. **Navegar a la carpeta del proyecto:**
+   %cd analisis-ventas-empresa
+2. **Ejecutar el script de procesamiento:**
+   !python scripts/analisis_datos.py
+
+### 🛡️ Control de Calidad y Seguridad (QA)
+* **Revisión por Pares:** Validada mediante Pull Request con hilos de discusión técnicos en GitHub.
+* **Auditoría:** Se verificó que el archivo `.gitignore` excluya correctamente los datos pesados y archivos temporales del entorno.
